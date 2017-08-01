@@ -1,5 +1,12 @@
 # STM
 
+The implementations of the STM topic models, as described in 2016 CIKM paper:
+
+**Effective Document Labeling with Very Few Seed Words:
+A Topic Modeling Approach.**
+Chenliang Li, Jian Xing, Aixin Sun, Zongyang Ma.
+
+## Description
 1. catalog file
 
 Catalog file is uesd to describe category information. For example, the catalog file of data set '20 news groups' sholud be wrote in this form :
