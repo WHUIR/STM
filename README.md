@@ -1,4 +1,4 @@
-# Seed-Guided-Topic-Model
+# STM
 
 1. catalog file
 
