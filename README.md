@@ -1,6 +1,6 @@
 # STM
 
-The implementations of the Seed-guided topic model (STM), as described in 2016 CIKM paper:
+The implementations of the Seed-guided Topic Model (STM), as described in 2016 CIKM paper:
 
 **Effective Document Labeling with Very Few Seed Words:
 A Topic Modeling Approach.**
