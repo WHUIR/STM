@@ -15,7 +15,7 @@ public class MathUtil {
     public static int sample(double[] raw) {
 
         for (int i = 1; i < raw.length; i++) {
-            raw[i] += raw[i] + raw[i - 1];
+            raw[i] += raw[i - 1];
         }
         if (raw[raw.length - 1] == 0)
             return 0;
